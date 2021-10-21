@@ -82,9 +82,5 @@ your preferred browser.
 ```
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-9
-   [sequelize]: <https://github.com/sequelize/sequelize/blob/main/README.md>
-   [node.js]: <http://nodejs.org>
-   [express]: <http://expressjs.com>
 
 
